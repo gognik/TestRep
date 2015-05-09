@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "works": [
+    {"workID": 1, "name": "Дело 11", "dateCreate": "11/08/1991", "dateCompleted": "May 10/08", "completed": "невыполнено"},
+    {"workID": 2, "name": "Дело 2", "dateCreate": "13/08/1991", "dateCompleted": "08/10/08", "completed": "невыполнено"},
+    {"workID": 3, "name": "Дело 3", "dateCreate": "15/08/1991", "dateCompleted": "08/10/05", "completed": "невыполнено"},
+    {"workID": 4, "name": "Дело 4", "dateCreate": "17/08/1991", "dateCompleted": "08/02/11", "completed": "выполнено"}
+  ]
+}
